@@ -34,3 +34,11 @@ a:link {
     color: #E5E7EB;
     text-decoration: none;
 }
+/* WELCOME */
+.welcome {
+    padding: 7em 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 2em;
+}
