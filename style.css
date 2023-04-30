@@ -18,3 +18,8 @@ header {
     font-weight: 900;
     color: #F9FAF8;
 }
+.nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+}
