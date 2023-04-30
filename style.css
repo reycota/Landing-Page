@@ -62,3 +62,14 @@ button {
     background-color: #3882F6;
     border-radius: 8px;
 }
+.welcome button {
+    border: none;
+}
+
+.image {
+    background-color: gray;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 215px;
+}
