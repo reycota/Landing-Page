@@ -42,3 +42,8 @@ a:link {
     align-items: center;
     gap: 2em;
 }
+.welcome .left {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
