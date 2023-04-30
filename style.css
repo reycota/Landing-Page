@@ -28,3 +28,9 @@ header {
     display: flex;
     gap: 1.5em;
 }
+.secondary,
+a:link {
+    font-size: 18px;
+    color: #E5E7EB;
+    text-decoration: none;
+}
