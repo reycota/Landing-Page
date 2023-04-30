@@ -47,3 +47,7 @@ a:link {
     flex-direction: column;
     gap: 10px;
 }
+.welcome .right {
+    flex-shrink: 0;
+    width: 50%;
+}
