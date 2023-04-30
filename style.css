@@ -126,3 +126,10 @@ main h2 {
     font-weight: 100;
     color: #1f2937;
 }
+/* SIGN UP */
+.sign-up {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 5em 13em;
+}
