@@ -23,3 +23,8 @@ header {
     justify-content: space-between;
     align-items: baseline;
 }
+.nav ul {
+    list-style-type: none;
+    display: flex;
+    gap: 1.5em;
+}
