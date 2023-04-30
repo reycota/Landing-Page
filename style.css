@@ -107,3 +107,11 @@ main h2 {
     width: 160px;
     height: 160px;
 }
+/* QUOTE */
+.quote {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color: #E5E7EB;
+    padding: 7em 13em;
+}
