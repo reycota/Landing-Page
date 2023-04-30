@@ -56,3 +56,9 @@ a:link {
     font-weight: 900;
     font-size: 48px;
 }
+button {
+    padding: 7px 1em;
+    width: 120px;
+    background-color: #3882F6;
+    border-radius: 8px;
+}
